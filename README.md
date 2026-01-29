@@ -7,3 +7,4 @@ Hi, my name is Lynae. I am an aspiring web developer with experience in cybersec
 **Rayan de Paula**
 
 This update was made as part of a GitHub collaboration exercise.
+Hi, my name is Lynae. I am an aspiring web developer with experience in cybersecurity. (REMOTE CHANGE)
